@@ -57,7 +57,7 @@ var connection = mysql.createConnection({
           deleteSomething();
         }
         else if (answer.choices === "EXIT") {
-          figlet('Thanks for using FSC Employee Tracker', (err, result) => {
+          figlet('Thanks for using Employee Tracker', (err, result) => {
             console.log(err || result);
           });
         
