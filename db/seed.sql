@@ -1,3 +1,4 @@
+  
 INSERT INTO department (name)
 VALUES ("Sales"), ("Engineering"), ("Human Resources"), ("Legal"), ("Finance"), ("Artist");
 
@@ -12,7 +13,7 @@ SELECT e.id, e.first_name, e.last_name, d.name AS department, r.title, r.salary,
 -- Query for view all roles --
 SELECT  r.id, r.title, r.salary, d.name as Department_Name FROM role AS r INNER JOIN department AS d ON r.department_id = d.id;
 
---Query for getting employees --
+-- Query for getting employees --
 SELECT id, CONCAT_WS(' ', first_name, last_name) AS Employee_Name FROM employee
 
 -- Query for updating --
