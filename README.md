@@ -45,9 +45,14 @@ The application will be invoked with the following command:
 
                 node app.js
 
-  ![Photo] ()
+  ### App video example
 
-  ![Photo] ()
+  [Video Link App Working]()
+
+  ### App Screen Shots
+
+  ![Photo]()   
+  ![Photo]()
 
   ### Contributors
 
