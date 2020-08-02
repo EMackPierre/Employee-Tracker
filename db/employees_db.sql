@@ -1,4 +1,3 @@
-  
 DROP DATABASE IF EXISTS employees_db;
 CREATE DATABASE employees_db;
 
@@ -26,3 +25,4 @@ CREATE TABLE employee (
   manager_id INT, 
   PRIMARY KEY (id)
 );
+
