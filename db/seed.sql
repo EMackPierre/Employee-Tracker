@@ -1,4 +1,4 @@
-  
+   
 INSERT INTO department (name)
 VALUES ("Sales"), ("Engineering"), ("Human Resources"), ("Legal"), ("Finance"), ("Artist");
 
@@ -22,4 +22,4 @@ UPDATE employee SET role_id = 3 WHERE id = 8;
 UPDATE employee SET ? WHERE ?;
 
 -- Query for Delete --
-DELETE FROM department WHERE id = 13;
+DELETE FROM department WHERE id = 13
