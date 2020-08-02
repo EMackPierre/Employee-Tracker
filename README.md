@@ -47,12 +47,13 @@ The application will be invoked with the following command:
 
   ### App video example
 
-  [Video Link App Working]()
+  [Git](employee-TrackerGIF.gif)
+  [Video Link App Working](employee-TrackerVideo.webm)
 
   ### App Screen Shots
 
-  ![Photo]()   
-  ![Photo]()
+  ![Photo](employee-Tracker1.PNG)   
+  ![Photo](employee-Tracker2.PNG)
 
   ### Contributors
 
